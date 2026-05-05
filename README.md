@@ -63,8 +63,6 @@ The main objective of this project is to demonstrate how real-time data can be f
 
 ## 📸 Preview
 
-## 📸 Preview
-
 <p align="center">
   <img src="images/Dashboard.png" width="800"/>
 </p>
